@@ -1,0 +1,28 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Iinclude",
+            "-W",
+            "-o",
+            "build/debug/play",
+            "src/main.cpp"
+        ],
+        "directory": "/home/rockuda/sdlbase",
+        "file": "src/main.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Iinclude",
+            "-W",
+            "-o",
+            "build/debug/play",
+            "src/renderWindow.cpp"
+        ],
+        "directory": "/home/rockuda/sdlbase",
+        "file": "src/renderWindow.cpp"
+    }
+]
